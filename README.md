@@ -34,6 +34,6 @@ emotion_detection.ipynb: Jupyter notebook for demonstrating emotion detection us
 
 haarcascade_frontalface_default.xml: Haarcascade file for detecting faces in images using OpenCV.
 
-### Acknowledgements
+## Acknowledgements
 
 Special thanks to the creators of the original age and gender models and the Caffe framework.
