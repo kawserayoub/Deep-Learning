@@ -24,7 +24,7 @@ gender_deploy.prototxt: Network definition for the gender classification model.
 
 ### Scripts
 
-facial_detector.py: Python script that uses OpenCV to detect faces in images and prepares them for classification.
+facial_detector.py: Python script that uses OpenCV to detect faces in real time video and prepares them for classification.
 
 ### Notebooks
 
